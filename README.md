@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Valentina 👋</h1>
 
 - 🎓 I'm a Computer Engineer
-- 📍 **Location**: 🇦🇷 Buenos Aires, Argentina
+- 📍 **Location**: Miami, FL
 
 ## Get in Touch
 
