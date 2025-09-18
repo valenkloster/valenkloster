@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Valentina 👋</h1>
 
-- 🎓 I'm a Computer Engineer
+- 🎓 I'm a Software Engineer
 - 📍 **Location**: Miami, FL
 
 ## Get in Touch
