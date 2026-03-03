@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Valentina 👋</h1>
 
-- 🎓 I'm a Software Engineer
+- 🎓 I'm a Software Engineer and I’m currently pursuing my Master’s in Data Science and AI at FIU
 - 📍 **Location**: Miami, FL
 
 ## Get in Touch
