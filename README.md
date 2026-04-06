@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Valentina 👋</h1>
 
-- 🎓 I'm a Software Engineer and I’m currently pursuing my Master’s in Data Science and AI at FIU
+- 🎓 I'm a Data Scientist and AI Engineer with production NLP and machine learning experience at IBM, proficient in Python, SQL, and end-to-end ML pipelines. Master of Data Science and AI candidate at FIU (GPA 4.0). Seeking U.S.-based roles in data science, machine learning, or AI engineering.
+
 - 📍 **Location**: Miami, FL
 
 ## Get in Touch
